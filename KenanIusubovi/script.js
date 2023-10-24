@@ -1,0 +1,1 @@
+console.log("we need to add money generator but i am to busy. i also love project name ! creativity is good ");
