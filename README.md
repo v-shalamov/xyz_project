@@ -2,6 +2,7 @@
 
 - Andrei Bakhtinov
 - Natasha Selyunina
+- Ustinya Petrova
 - Egor Danilov
 - Dmitriy Loginov
 - Viktoriia Shcherbyna
