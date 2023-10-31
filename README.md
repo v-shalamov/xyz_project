@@ -4,3 +4,4 @@
 - Dmitriy Loginov
 - Viktoriia Shcherbyna
 - Gkalina Borisevits
+- Vadim Šalamov
