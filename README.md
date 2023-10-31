@@ -2,7 +2,7 @@
 
 - Andrei Bakhtinov
 - Natasha Selyunina
-
-* Gkalina Borisevits
-
 - Egor Danilov
+- Dmitriy Loginov
+- Viktoriia Shcherbyna
+- Gkalina Borisevits
