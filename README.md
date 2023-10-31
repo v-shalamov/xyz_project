@@ -1,4 +1,5 @@
 # xyz_project
 - Andrei Bakhtinov
 - Natasha Selyunina
-+ Gkalina Borisevits
+- Viktoriia Shcherbyna
+- Gkalina Borisevits
