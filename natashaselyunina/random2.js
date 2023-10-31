@@ -1,1 +1,1 @@
-console.log(Math.random() * 101);
+console.log(Math.random() * 100);
