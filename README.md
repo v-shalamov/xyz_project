@@ -2,3 +2,4 @@
 - Andrei Bakhtinov
 - Natasha Selyunina
 - Viktoriia Shcherbyna
+- Gkalina Borisevits
